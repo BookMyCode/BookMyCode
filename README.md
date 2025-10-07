@@ -1,4 +1,4 @@
-# 👋 Welcome to BookMyCode - Your Freelance Development Partner!
+# 👋 Welcome to BookMyCode-Freelance Development Partner!
 
 <div align="center">
   <img src="https://github.com/BookMyCode/.github/blob/main/profile/banner.gif" alt="BookMyCode Banner" style="width: 100%; max-width: 1200px; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
